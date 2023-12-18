@@ -8,10 +8,10 @@ This is a web scraper built using the Scrapy framework to extract book metadata 
     git clone https://github.com/noahslik/goodreads-scraper.git
     ```
 2. Make sure you have Python installed. If not, download and install Python from python.org.
-3. Install Scrapy using pip:
+3. Install dependencies using pip:
     ```
     cd goodreads-scraper
-    pip install scrapy
+    pip install -r requirements.txt
     ```
 
 ## Usage
